@@ -1,2 +1,9 @@
-¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+● ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
 No, porque ... 
+
+
+
+● En la línea principal agregue un nuevo archivo que se llame Respuestas.txt y
+realice un commit para agregar este archivo al repositorio. Vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+
+En comments aparece el archivo respuestas.txt
